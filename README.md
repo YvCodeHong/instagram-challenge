@@ -13,8 +13,8 @@ This is my response to Makers Academy's Week 8 weekend challenge. Our task here 
 
 ```
 As a user,
-So that I am upto date with what my friends are doing,
-I’d like to see their pictures that they have shared.
+So that I am up to date with the world,
+I’d like to see pictures that have been shared.
 
 As a user,
 So that I can share pictures of my daily life,
